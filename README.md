@@ -2,7 +2,7 @@
 
 [KAUotic Hacking Club](https://kauotic.se/)
 
-Herein you will be able to find most of what was mentioned during the intro to CTF presentation held 8/12-23. The presentation itself is found in the [CTF.md] file above; It's in Markdown format, if you want to see the actual slide presentation, use for example [Slides](https://github.com/maaslalani/slides) as such:
+Herein you will be able to find most of what was mentioned during the intro to CTF presentation held 8/12-23. The presentation itself is found in the [CTFs.md] file above; It's in Markdown format, if you want to see the actual slide presentation, use for example [Slides](https://github.com/maaslalani/slides) as such:
 
 ```bash
 slides CTFs.md
