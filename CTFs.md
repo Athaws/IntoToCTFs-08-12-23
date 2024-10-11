@@ -116,14 +116,6 @@ Psst.. We also have a website with all of our [*links*](https://kauotic.se/)
 
 ---
 
-## Enough yapping - it's time to find out how to actually solve something
-
-For this live demo, we'll be taking a look at OverTheWire: Bandit, some of the earlier levels are relatively easy and mostly rely on knowledge of Linux commands.
-
-Feel free to follow along with what's happening on the screen, I'll be starting with [bandit0:](https://overthewire.org/wargames/bandit/bandit0.html)
-
----
-
 ## Some examples of Jeopardy style problems
 
 To begin with, we'll look at some relatively easy CTF challenges, and some that KAUotic encountered and solved during previous CTFs:
@@ -132,9 +124,9 @@ To begin with, we'll look at some relatively easy CTF challenges, and some that 
 + Lemonade Stand (v1)
 + Ghost In The Machine
 
-Next, we'll be taking a look at a range of challanges that were part of a small CTF hosted just yesterday, 7/12, by Inet/ESET. The page remains active for an unknown amount of time.
+Next, we'll be taking a look at a range of challanges that are available at our very own website where you can find introductory challenges by our Lord, King, Intergalactic Emperor and Saviour Arcnilya.
 
-The challenges are available at the website [](https://www.hackainet.se).
+The challenges are available at the website [](https://kauotic.se/newbie).
 
 ---
 
