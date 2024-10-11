@@ -126,7 +126,7 @@ To begin with, we'll look at some relatively easy CTF challenges, and some that 
 
 Next, we'll be taking a look at a range of challanges that are available at our very own website where you can find introductory challenges by our Lord, King, Intergalactic Emperor and Saviour Arcnilya.
 
-The challenges are available at the website [](https://kauotic.se/newbie).
+The challenges are available at the website [https://kauotic.se/newbie](https://kauotic.se/newbie).
 
 ---
 
